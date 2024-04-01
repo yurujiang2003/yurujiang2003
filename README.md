@@ -1,7 +1,7 @@
 - 👋 大噶好！我是Tintin！ZJU-Biology 大二在读 ENTP
 - 👀 I’m interested in ⚽️（Chelsea💙&Redondo5）
 - 🌱 I’m currently learning DeepLearning,especially NLP, bioinfomatics and molecular dynamics.
-- 💞️ I’m looking to collaborate with Kevin.
+- 💞️ I’m looking to collaborate with you.
 - 📫 How to reach me: tintinjiangiwls@gmail.com
 
 <!---
