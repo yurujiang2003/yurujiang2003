@@ -9,4 +9,4 @@ yurujiang2003/yurujiang2003 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiyurujiang2003anuraghazra)
-![trophy](https://github-profile-trophy.vercel.app/yurujiang2003ryo-ma)
+[![trophy](https://github-profile-trophy.vercel.app/yurujiang2003ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
