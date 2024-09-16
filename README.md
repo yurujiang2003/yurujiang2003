@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tintin Jiang</h1>
-<h3 align="center">A nlper like reasoning <img src="https://komarev.com/ghpvc/?username=yurujiang2003&color=blueviolet"></h3> 
+<h3 align="center">An nlper like reasoning and detective novels <img src="https://komarev.com/ghpvc/?username=yurujiang2003&color=blueviolet"></h3> 
 - 👋 我是Tintin！ZJU-Biology&CS, Junior.<br>
 - 👀 I’m interested in ⚽️（Chelsea💙&Redondo5）<br>
 - 🌱 I’m currently learning DeepLearning,especially LLM AGENT, MULTIMODAL REASONING, LLM4SCI, Computer Vision.<br>
