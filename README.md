@@ -1,6 +1,8 @@
-- 👋 大噶好！我是Tintin！ZJU-Biology&CS, Sophomore.
+<h1 align="center">Hi 👋, I'm Tintin Jiang</h1>
+<h3 align="center">A nlper like reasoning <img src="https://komarev.com/ghpvc/?username=yurujiang2003&color=blueviolet"></h3> 
+- 👋 我是Tintin！ZJU-Biology&CS, Junior.
 - 👀 I’m interested in ⚽️（Chelsea💙&Redondo5）
-- 🌱 I’m currently learning DeepLearning,especially LLM AGENT, MULTIMODAL REASONING, LLM4SCI.
+- 🌱 I’m currently learning DeepLearning,especially LLM AGENT, MULTIMODAL REASONING, LLM4SCI, Computer Vision.
 - 💞️ I’m looking to collaborate with you.
 - 📫 How to reach me: tintinjiangiwls@gmail.com
 
