@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tintin Jiang</h1>
 <h3 align="center">An nlper likes reasoning and detective novels <img src="https://komarev.com/ghpvc/?username=yurujiang2003&color=blueviolet"></h3> 
 - 👋 我是Tintin！ZJU-Biology&CS, Junior.<br>
-- 👀 I’m interested in ⚽️（Chelsea💙&Redondo5）<br>
-- 🌱 I’m currently learning DeepLearning,especially LLM AGENT, MULTIMODAL REASONING, LLM4SCI, Computer Vision.<br>
+- 👀 I’m interested in ⚽️（Chelsea💙& Redondo5 & AC Milan♥️🖤）<br>
+- 🌱 I am interested in Artificial Intelligence, especially Reinforcement Learning, LLM reasoning and plan- ning, Alignment and AI for Science..<br>
 - 💞️ I’m looking to collaborate with you.<br>
-- 📫 How to reach me: tintinjiangiwls@gmail.com<br>
+- 📫 How to reach me: yjiangel@connect.ust.hk<br>
 
 <!---
 yurujiang2003/yurujiang2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
