@@ -2,7 +2,7 @@
 <h3 align="center">An nlper likes reasoning and detective novels <img src="https://komarev.com/ghpvc/?username=yurujiang2003&color=blueviolet"></h3> 
 - 👋 我是Tintin！ZJU-Biology&CS, Junior.<br>
 - 👀 I’m interested in ⚽️（Chelsea💙& Redondo5 & AC Milan♥️🖤）<br>
-- 🌱 I am interested in Artificial Intelligence, especially Reinforcement Learning, LLM reasoning and plan- ning, Alignment and AI for Science..<br>
+- 🌱 I am interested in Artificial Intelligence, especially Reinforcement Learning, LLM Reasoning and Planning, Alignment and AI for Science..<br>
 - 💞️ I’m looking to collaborate with you.<br>
 - 📫 How to reach me: yjiangel@connect.ust.hk<br>
 
