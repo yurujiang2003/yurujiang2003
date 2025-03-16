@@ -4,7 +4,7 @@
 - 👀 I’m interested in ⚽️（Chelsea💙& Redondo5 & AC Milan♥️🖤）<br>
 - 🌱 I am interested in Artificial Intelligence, especially Reinforcement Learning, LLM Reasoning and Planning, Alignment and AI for Science..<br>
 - 💞️ I’m looking to collaborate with you.<br>
-- 📫 How to reach me: yjiangel@connect.ust.hk<br>
+- 📫 How to reach me: yjiangel@connect.ust.hk and yurujiang@berkeley.edu <br>
 
 <!---
 yurujiang2003/yurujiang2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
